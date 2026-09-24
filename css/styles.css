@@ -6,8 +6,9 @@ body {
 }
 
 .link {
-    color: #000066;
+    color: #006600;
     text-decoration: underline;
+    font-weight: bold;
 }
 
 .intro {
